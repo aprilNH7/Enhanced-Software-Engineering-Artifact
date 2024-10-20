@@ -1,4 +1,4 @@
-# Overview of Enhanced Projects
+# Overview
 
 # 1. Enhanced Android Inventory App – CS-360: Mobile Architecture and Programming
 
